@@ -94,3 +94,13 @@ a {
     margin: 4rem 15rem;
   }
 }
+
+@media screen and (min-width: 2000px){
+  .section__padding{
+    padding: 6rem 22rem;
+  }
+
+  .section__margin {
+    margin: 6rem 22rem;
+  }
+}
