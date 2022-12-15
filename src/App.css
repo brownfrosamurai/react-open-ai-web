@@ -87,11 +87,11 @@ a {
 
 @media screen and (min-width: 1600px){
   .section__padding{
-    padding: 4rem 15rem;
+    padding: 5rem 15rem;
   }
 
   .section__margin {
-    margin: 4rem 15rem;
+    margin: 5rem 15rem;
   }
 }
 
